@@ -5,7 +5,8 @@ Economics and Data Science postgraduate with strong quantitative training in fin
 My experience spans time-series modelling, credit risk analysis, and macro-financial research, including work on banking crisis prediction, monetary policy transmission, and exchange rate forecasting. I’ve applied techniques such as VECM, panel data methods, Bayesian modelling, and ensemble machine learning using Python, STATA, and R.
 
 # Forecasting Exchange Rates
-Forecasting GBP/USD exchange rate using VAR and Random Forest comparing performace to Naive forecast 
+Forecasting GBP/USD exchange rate using VAR and Random Forest comparing performace to Naive forecast
+https://github.com/Siddhangana-creator/Macro-Econometrics
 https://github.com/Siddhangana-creator/Macro-Econometrics/blob/main/Exchange_Rate.ipynb 
 # EXPLORATORY DATA ANALYSIS - Consumer Data
 https://github.com/Siddhangana-creator/Siddhangana-creator/blob/main/Customer.ipynb
