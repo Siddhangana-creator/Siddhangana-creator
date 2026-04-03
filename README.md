@@ -4,3 +4,5 @@ Economics and Data Science postgraduate with strong quantitative training in fin
 
 My experience spans time-series modelling, credit risk analysis, and macro-financial research, including work on banking crisis prediction, monetary policy transmission, and exchange rate forecasting. I’ve applied techniques such as VECM, panel data methods, Bayesian modelling, and ensemble machine learning using Python, STATA, and R.
 
+# EXPLORATORY DATA ANALYSIS -
+ https://github.com/Siddhangana-creator/Siddhangana-creator/blob/main/K_Means.ipynb 
