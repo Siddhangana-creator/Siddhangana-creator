@@ -6,6 +6,7 @@ My experience spans time-series modelling, credit risk analysis, and macro-finan
 
 # Forecasting Exchange Rates
 Forecasting GBP/USD exchange rate using VAR and Random Forest comparing performace to Naive forecast
+
 https://github.com/Siddhangana-creator/Macro-Econometrics
 
 https://github.com/Siddhangana-creator/Macro-Econometrics/blob/main/Exchange_Rate.ipynb 
