@@ -14,3 +14,8 @@ https://github.com/Siddhangana-creator/Macro-Econometrics/blob/main/Exchange_Rat
 https://github.com/Siddhangana-creator/Siddhangana-creator/blob/main/Customer.ipynb
 # K Means Clustering on Housing Data -
  https://github.com/Siddhangana-creator/Siddhangana-creator/blob/main/K_Means.ipynb 
+
+
+# Quantitative-Research-JP-Morgan-Virtual-Job-Simulation
+
+https://github.com/Siddhangana-creator/Quantitative-Research-JP-Morgan-Virtual-Job-Simulation
